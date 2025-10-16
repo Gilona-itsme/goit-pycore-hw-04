@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Cindy Maynard",
+        "address": "856 Matthews Viaduct Suite 209\nMatthewfurt, AK 71974",
+        "email": "wendyjohnson@example.com",
+        "phne_number": "439-771-9707x9635"
+    },
+    {
+        "name": "Katherine Barnes",
+        "address": "USNV Smith\nFPO AA 30741",
+        "email": "bryan15@example.org",
+        "phne_number": "370-628-9950x3719"
+    },
+    {
+        "name": "Amanda Bishop MD",
+        "address": "7871 Justin Route\nChristinafurt, HI 12972",
+        "email": "shawkatrina@example.net",
+        "phne_number": "4148590211"
+    },
+    {
+        "name": "Melinda Floyd",
+        "address": "4697 Ryan Courts\nLake Lindsey, MS 91695",
+        "email": "jerrywong@example.net",
+        "phne_number": "(271)311-7423"
+    },
+    {
+        "name": "Miranda Payne",
+        "address": "92088 Bryant Isle\nArcherbury, NY 34636",
+        "email": "fblanchard@example.org",
+        "phne_number": "469-610-1255"
+    },
+    {
+        "name": "Lindsey Miller",
+        "address": "04566 William Forks\nWhitneymouth, NH 91566",
+        "email": "michael36@example.net",
+        "phne_number": "490-625-7247x18050"
+    },
+    {
+        "name": "Kim Jones",
+        "address": "863 Silva Square\nMeaganbury, WV 67804",
+        "email": "ovaughn@example.org",
+        "phne_number": "(687)817-7193x36249"
+    },
+    {
+        "name": "Laura Gill",
+        "address": "050 Soto Square Apt. 312\nEast Anthonyland, IA 18898",
+        "email": "jefferyrios@example.net",
+        "phne_number": "001-504-473-6732x8462"
+    },
+    {
+        "name": "Alexander Lewis",
+        "address": "634 Nicholson Lodge\nTimothyfort, CA 98151",
+        "email": "martinelizabeth@example.org",
+        "phne_number": "+1-375-519-4784x03059"
+    },
+    {
+        "name": "Charles Brown",
+        "address": "4523 Beasley Mountain Suite 136\nBowmanhaven, NV 31067",
+        "email": "nmartin@example.com",
+        "phne_number": "887-335-6413"
+    }
+]
