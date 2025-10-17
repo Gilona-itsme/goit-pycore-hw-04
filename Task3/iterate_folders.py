@@ -24,7 +24,7 @@ def iterate_folder(path, level=0, indent: str = ""):
         print (f" {indent} {ERROR_COLOR}Error accessing {file}: {e}")
 
 
-
-#iterate_folder(Path("/Volumes/Ilona_G/Python_Woolfs/goit-pycore-hw-04"))
+if __name__ == "__main__":
+    iterate_folder(Path("/Volumes/Ilona_G/Python_Woolfs/goit-pycore-hw-04"))
 
 

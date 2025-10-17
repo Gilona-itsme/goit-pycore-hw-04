@@ -3,6 +3,7 @@ import sys
 from iterate_folders import iterate_folder
 from color_rules import  ERROR_COLOR
 
+#Task 3: Main script to run the folder iteration
 
 def main():
     if len(sys.argv) > 1:
